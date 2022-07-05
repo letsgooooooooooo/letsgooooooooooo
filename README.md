@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Elliott McGeary, I live in Phoenix AZ and I'm 14 years old 
+- 👀 I’m interested in ... computer coding and cyber security
+- 🌱 I’m currently learning ...  GSAP Animation in a Computer Coding class 
+- 💞️ I’m looking to collaborate on whatever. 
+- 📫 How to reach me ... eamcgeary@gmail.com
